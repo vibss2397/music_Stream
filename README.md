@@ -1,4 +1,4 @@
-#shaifila
+#music_stream
 
 This app is meant for the purpose of streaming music from one device to another.
 this version only allows the whole transfer of song from one device to another,
